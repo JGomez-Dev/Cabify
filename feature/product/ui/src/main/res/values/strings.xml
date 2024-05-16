@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading_label">Loading</string>
+    <string name="label_promotion_3x19_u">3x$19/u</string>
+    <string name="label_promotion_2x1">2x1</string>
+    <string name="label_articles">Articles</string>
+    <string name="label_offers">Offers</string>
+    <string name="label_currency_discount">- $ %1$s</string>
+    <string name="label_currency">$ %1$s</string>
+    <string name="label_items">Items price</string>
+    <string name="label_total">Total</string>
+    <string name="label_buy_now">Buy now</string>
+    <string name="label_have_articles">You have %1$s items in your list chart.</string>
+    <string name="label_discounts">Discount</string>
+    <string name="label_cart">Cart</string>
+    <string name="label_not_offers">Without offer</string>
+    <string name="label_products">Products</string>
+
+
+</resources>

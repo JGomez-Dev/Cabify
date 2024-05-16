@@ -1,0 +1,17 @@
+[
+  {
+    "code": "TSHIRT",
+    "text": "¡3 TSHIRT a 19€ cada una! ¡Imperdible!",
+    "image": "https://web.ccistore.fr/sites/default/files/inline-images/op%C3%A9%20sp%C3%A9ciale%202.jpg",
+    "offer": {
+      "minimumQuantity": 3,
+      "discountPerItem": 1.0
+    }
+  },
+  {
+    "code": "VOUCHER",
+    "text": "Compra uno y coge otro GRATIS en VOUCHER",
+    "image": "https://storage.timviec365.vn/timviec365/pictures/news/2019/03/13/iyf1552475540.jpg",
+    "offer": {}
+  }
+]

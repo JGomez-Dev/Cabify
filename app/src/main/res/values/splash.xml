@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Cabify.Starting" parent="Theme.AppCompat" >
+        <item name="android:windowSplashScreenBackground">#ffffff</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/cabify</item>
+        <item name="postSplashScreenTheme">@style/Theme.CabifyTest</item>
+    </style>
+
+</resources>

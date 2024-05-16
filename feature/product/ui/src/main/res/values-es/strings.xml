@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading_label">Cargando</string>
+    <string name="label_promotion_3x19_u">3x19€/u</string>
+    <string name="label_promotion_2x1">2x1</string>
+    <string name="label_articles">Artículos</string>
+    <string name="label_offers">Promociones</string>
+    <string name="label_currency_discount">- %1$s €</string>
+    <string name="label_currency">%1$s €</string>
+    <string name="label_items">Precio Artículos</string>
+    <string name="label_total">Total</string>
+    <string name="label_buy_now">Comprar ahora</string>
+    <string name="label_have_articles">Tienes %1$s artículos en tu cesta.</string>
+    <string name="label_discounts">Descuento</string>
+    <string name="label_cart">Cesta</string>
+    <string name="label_not_offers">Sin promociones</string>
+    <string name="label_products">Productos</string>
+
+</resources>
